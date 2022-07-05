@@ -1,0 +1,51 @@
+0:
+1: https://www.kaggle.com/datasets/pradeeptrical/text-tweet-classification
+2: https://www.kaggle.com/datasets/deepcontractor/200k-short-texts-for-humor-detection
+3: https://www.kaggle.com/datasets/meetnagadia/condon-usage-dataset
+también esto Sesgo_en_el_uso_de_codones
+4: https://www.kaggle.com/datasets/lakritidis/product-classification-and-categorization
+5: https://www.kaggle.com/datasets/saurabhshahane/twitter-sentiment-dataset
+6: https://www.kaggle.com/datasets/stevenpeutz/misinformation-fake-news-text-dataset-79k
+7: https://www.kaggle.com/datasets/amananandrai/clickbait-dataset
+8: https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
+9: https://www.kaggle.com/datasets/deepu1109/star-dataset
+10: https://www.kaggle.com/datasets/kevinarvai/clinvar-conflicting
+11: https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
+12: https://www.kaggle.com/datasets/prakharrathi25/banking-dataset-marketing-targets
+
+
+https://www.kaggle.com/datasets?sort=votes&tags=13302-Classification&page=7
+
+
+TP
+1 de junio tp ondividual
+automated machine learning
+tecnicas de autodea
+feature engineering
+modelado y explicación
+y almacenamiento de experimentacion
+de cualquier tema que queramos trabajar nosotros. Para los que no encuentren un dataset o no estén orientados con algún tipo de dataset, pedírselo
+Podemos elegir clsuterizacion  o clasificacion.
+La base es entender los conceptos de automated machine learning.
+
+Para el modelado pycaret.
+Feature engineering 
+3 o 4 herramientas de auto EDA (exploratory data analysis)
+
+La idea es que basado en herramientas automáticas vayamos avanzando sobre todo el proceso de ciencia de datos, acordándonos que lo que estamos haciendo no necesariamente es el mejor modelo de nuestra vida, sino que puede ser tranquilamente un modelo el cual pueden trabajar o entregar como primera opción para poder continuar modelando de manera artesanal, con el enfoque en el fine tuning del modelo.
+
+
+Paso 0: definir el problema, qué queremos analizar o investigar.
+Secuencia de trabajo. CUales son los primeros modelos que tenés que implementar, y cuales tenes que implementar despues. Cuales conviene trabajar primero por determinadas razones. Hay una matriz que se puede evaluar.
+Paso 1: Quiero tener un data set validado, limpio. Hay 3 etapas:  Wrangling, exploration (EDA) y cleaning:
+Wrangling: Primero la extracción, merging y generación de data set. Tenemos un conjunto de datos completo para presentarlo a la EDA.
+EDA: Entran las 5 herramientas que vamos a ver. LO que hacen es, se les pasa el dataset, y para ese dataset te van a dar algun análisis.
+AUtoviz: rápidamente se puede ver un comportamiento de los datos, como correlación, etc.
+VEDIT PLUS
+DataPrep
+PandasProfiling (gusta a merlino): resumen de todo el conjunto de datos, y para cada una de las variables me da todo el análisis.
+Sweetviz: genera un reporte gráfico con html
+D-Tale: es la mejor, más completa, con frontend en flask.
+
+
+Hay que hacernos preguntas, encontrar valores fuera de rangos, valores que resultan extraños, valores missing, valores que no deberían estar. Estas cosas las vamos a analizar y tomar decisión en la otra etapa siguiente, en la cleaning.

@@ -12,9 +12,19 @@ también esto Sesgo_en_el_uso_de_codones
 10: https://www.kaggle.com/datasets/kevinarvai/clinvar-conflicting
 11: https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
 12: https://www.kaggle.com/datasets/prakharrathi25/banking-dataset-marketing-targets
+13: https://www.kaggle.com/datasets/kukuroo3/body-performance-data
+14: https://www.kaggle.com/datasets/ruslankl/mice-protein-expression
+15: https://www.kaggle.com/datasets/programmerrdai/country-codes
+16: https://www.kaggle.com/datasets/mohammedzakishaikh/movie-ratings
+17: https://www.kaggle.com/datasets/arashnic/the-depression-dataset
+18: 
+19: https://www.kaggle.com/datasets/undersc0re/predict-the-churn-risk-rate
+Churn Rate o Tasa de Cancelación
 
 
 https://www.kaggle.com/datasets?sort=votes&tags=13302-Classification&page=7
+https://www.kaggle.com/datasets?tags=13103-Intermediate%2C13302-Classification%2C14101-Tabular+Data
+
 
 
 TP

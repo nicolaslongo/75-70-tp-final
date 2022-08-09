@@ -1,3 +1,6 @@
+feyn==3.0.2
 jupyter==1.0.0
 numpy==1.23.0
 pandas==1.4.3
+pandas_profiling==3.2.0
+pycaret==2.3.10
